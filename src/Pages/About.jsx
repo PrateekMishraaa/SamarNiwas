@@ -57,7 +57,7 @@ const About = () => {
       <section className="min-h-[70vh] w-full flex flex-col md:flex-row justify-between px-4 sm:px-6 md:px-10 py-6 gap-6">
         <div className="w-full md:w-[54%] bg-gray-900 text-white rounded-xl p-6 order-2 md:order-1">
           <p className="text-2xl sm:text-3xl md:text-4xl font-semibold font-serif">
-            INTRODUCTION OF <span>SAMAR<span className="text-yellow-400 font-bold">NIWAS</span> DEHRADUN</span>
+            INTRODUCTION OF <span>SAMAR <span className="text-yellow-400 font-bold">NIWAS </span> DEHRADUN</span>
           </p>
           <p className="text-sm sm:text-base py-6">
             Nestled amidst tall pine and oak trees, this hill station hotel offers a serene escape into nature. Perfect for a peaceful vacation, the hotel provides stunning mountain views, fresh air, and a relaxing environment ideal for couples, families, and solo travelers looking to unwind in the hills.
