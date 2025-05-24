@@ -324,7 +324,7 @@ const Rooms = () => {
       >
         <h2 className="text-3xl font-bold mb-4">Ready to Book Your Luxury Stay?</h2>
         <p className="mb-6">Experience premium comfort, convenience, and luxury accommodation. Reserve your room now for the best rates!</p>
-        <a href="/booking" className="bg-white text-red-600 font-semibold px-6 py-3 rounded-md hover:bg-gray-100 transition">
+        <a href="/contact" className="bg-white text-red-600 font-semibold px-6 py-3 rounded-md hover:bg-gray-100 transition">
           Book Now
         </a>
       </motion.section>
